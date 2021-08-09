@@ -13,3 +13,6 @@ Patch 3:
 Patch 4:
 * Updated to version 1.3
 * Added Russian translation
+
+Patch 5:
+* Fixed problem with languages not in Languages folder

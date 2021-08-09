@@ -1,7 +1,7 @@
 ﻿# Hyperweave Plantation mod
 
-This mode has been borrowed from [**Foxy Dog**](https://steamcommunity.com/profiles/76561198056914692) after he declined to support it.     
-I am planning to support the mode from now own.    
+This mod has been borrowed from [**Foxy Dog**](https://steamcommunity.com/profiles/76561198056914692) after he declined to support it.     
+I am planning to support this mod from now own.    
 If you'd like to add a translation or a new feature, please, submit a PR
 
 ## Original description

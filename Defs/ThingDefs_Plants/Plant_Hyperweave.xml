@@ -40,6 +40,8 @@
 
 	<ThingDef ParentName="PlantBaseHyper">
 		<defName>hyperweave_plant</defName>
+		<label>Hyperweave flower</label>
+		<description>A beautiful lab-grown flower that yields fine blue durable fibers. These are used to make reliable and rare cloth. Extremely sensitive to ground fertility!</description>
 		<statBases>
 			<Beauty>69</Beauty>
 			<Nutrition>0.1</Nutrition>
